@@ -15,5 +15,5 @@ function searchBinary(arr,target){
     return -1
 }
 
-const arr = [-5,2,4,6,10,5,84,424,12,54];
+const arr = [-5,2,4,6,10,5,84,424];
 console.log(searchBinary(arr,10));
